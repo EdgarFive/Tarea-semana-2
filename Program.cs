@@ -7,6 +7,7 @@ using System.Dynamic;
 
 for (int ii=0; ii != -1;)
 {
+    //Edgar Chinchilla ===================================================================
     // Inicio del programa. ==============================================================================
     Console.Clear(); 
     Console.WriteLine("Bienbenido la tarea semana 2\nElije una opción:\n1. Conversión de tipos.\n2. Operaciones con tipos de datos.\n3. Uso de char y string.\n4. Uso de tipos de datos numéricos.\n-1. Cerrar Programa.");
